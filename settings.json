@@ -1,0 +1,9 @@
+{
+    "monitor_interval": 5,
+    "cpu_threshold": 90,
+    "memory_threshold": 90,
+    "disk_threshold": 90,
+    "risk_threshold": 70,
+    "enable_network_monitor": true,
+    "enable_file_monitor": true
+}
